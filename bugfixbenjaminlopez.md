@@ -1,6 +1,8 @@
 What I implemented:
 
-One bug:
+One bug fix:
+
+Design Change:
 
 
 

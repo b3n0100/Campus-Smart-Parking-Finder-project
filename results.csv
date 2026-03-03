@@ -1,0 +1,8 @@
+scenario,mode,workers,throughput_rps,median_ms,p95_ms
+baseline,avail,1,20493.4,0.05,0.06
+baseline,avail,4,24237.2,0.16,0.27
+baseline,avail,8,23268.5,0.32,0.61
+baseline,avail,16,20521.1,0.71,1.45
+baseline,reserve,8,21360.4,0.34,0.66
+stress,avail,8,23102.1,0.32,0.61
+stress,reserve,8,21523.0,0.34,0.67
